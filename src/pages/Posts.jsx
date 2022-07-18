@@ -1,8 +1,8 @@
 import React from "react";
-import {ArchivedPosts} from '../components/ArchivedPosts';
-import {PopularPosts} from '../components/PopularPosts';
-import {RecentPosts} from '../components/RecentPosts';
-
+// import {ArchivedPosts} from '../components/ArchivedPosts';
+// import {PopularPosts} from '../components/PopularPosts';
+// import {RecentPosts} from '../components/RecentPosts';
+import { ArchivedPosts, PopularPosts, RecentPosts } from "../components/PostList";
 
 const Posts = (props) => {
     return (
